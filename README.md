@@ -25,6 +25,10 @@ chmod +x generar.sh
 ./generar.sh
 ```
 
+# Desinstalar
+```bash
+rm -rf /home/axter/Multimail && rm ~/Escritorio/Multimail.desktop && rm ~/.local/share/applications/Multimail.desktop
+```
 # Notas
 - Funciona únicamente con Gmail
 - El truco de los puntos no funciona en Hotmail, Outlook o Yahoo
