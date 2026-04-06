@@ -1,4 +1,5 @@
 #!/bin/bash
+cd "$(dirname "$0")"
 ##### Colores #####
 Red="\e[1;91m"
 Green="\e[1;92m"
